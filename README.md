@@ -1,12 +1,12 @@
 # kucingku08.github.io
 
 ### FARIS|ELECTRONIC ENGINEERING @ Univeristi Teknlogi Malaysia (UTM)
-**Bachelor of Electronic Engineering with honours at UTM
+**Bachelor of Electronic Engineering with honours at UTM**
 
-#Introduction
+# Introduction
 Im Faris from Malaysia with passion in electronic engineering and interest in computer engineering during my studies I have learned many skills directly from the class and also outside class.
 
-#Skills
+# Skills
 - Programming (C/C++, Python, Assembly, Java, Matlab)
 - EDA (Kicad, HDL/VHDL, Verilog)
 - Simulation (Quartus, Simulink, Vivaldi)
